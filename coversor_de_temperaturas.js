@@ -92,5 +92,5 @@ function menu() {
 }
 
 
-// Iniciar el programa
+// Iniciar el menu
 menu();
